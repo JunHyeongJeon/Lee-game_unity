@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: f2d24c72a487d463c891e88e86e734ea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LSS_King
+    21300002: LSS_King_0
+    21300004: LSS_King_59
+    21300006: LSS_King_58
+    21300008: LSS_King_57
+    21300010: LSS_King_56
+    21300012: LSS_King_55
+    21300014: LSS_King_6
+    21300016: LSS_King_7
+    21300018: LSS_King_8
+    21300020: LSS_King_9
+    21300022: LSS_King_10
+    21300024: LSS_King_11
+    21300026: LSS_King_12
+    21300028: LSS_King_13
+    21300030: LSS_King_14
+    21300032: LSS_King_15
+    21300034: LSS_King_16
+    21300036: LSS_King_17
+    21300038: LSS_King_18
+    21300040: LSS_King_19
+    21300042: LSS_King_20
+    21300044: LSS_King_21
+    21300046: LSS_King_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LSS_King_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2037
+        width: 300
+        height: 290
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1682
+        width: 285
+        height: 92
+      alignment: 9
+      pivot: {x: .526127279, y: .843984842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1677
+        width: 259
+        height: 105
+      alignment: 9
+      pivot: {x: .531890512, y: .89555198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_57
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1702
+        width: 208
+        height: 211
+      alignment: 9
+      pivot: {x: .363019198, y: .379882246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_56
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1709
+        width: 175
+        height: 195
+      alignment: 9
+      pivot: {x: .256996363, y: .441845089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_55
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1709
+        width: 202
+        height: 149
+      alignment: 9
+      pivot: {x: .282459825, y: .557081401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1335
+        width: 235
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1328
+        width: 235
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1329
+        width: 235
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 875
+        width: 235
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 856
+        width: 304
+        height: 262
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_11
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 918
+        width: 145
+        height: 225
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_12
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 933
+        width: 381
+        height: 211
+      alignment: 9
+      pivot: {x: .373065144, y: .352807492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_13
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 933
+        width: 362
+        height: 211
+      alignment: 9
+      pivot: {x: .418196708, y: .359655589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_14
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 933
+        width: 345
+        height: 267
+      alignment: 9
+      pivot: {x: .460830659, y: .305986375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 447
+        width: 235
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 414
+        width: 379
+        height: 254
+      alignment: 9
+      pivot: {x: .404918432, y: .437930375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_17
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 433
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 235
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 79
+        width: 219
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 9
+        width: 235
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LSS_King_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

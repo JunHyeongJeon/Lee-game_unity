@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 21d432216486645bea410327dfdfec68
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ally_spearman
+    21300002: ally_spearman_0
+    21300004: ally_spearman_1
+    21300006: ally_spearman_2
+    21300008: ally_spearman_3
+    21300010: ally_spearman_4
+    21300012: ally_spearman_5
+    21300014: ally_spearman_6
+    21300016: ally_spearman_7
+    21300018: ally_spearman_8
+    21300020: ally_spearman_9
+    21300022: ally_spearman_10
+    21300024: ally_spearman_11
+    21300026: ally_spearman_12
+    21300028: ally_spearman_13
+    21300030: ally_spearman_14
+    21300032: ally_spearman_15
+    21300034: ally_spearman_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ally_spearman_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 567
+        width: 231
+        height: 166
+      alignment: 9
+      pivot: {x: .259472728, y: .0128740054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 567
+        width: 107
+        height: 281
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_2
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 567
+        width: 138
+        height: 278
+      alignment: 9
+      pivot: {x: .385233551, y: .00406937627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_3
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 567
+        width: 269
+        height: 278
+      alignment: 9
+      pivot: {x: .209823892, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_4
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 567
+        width: 262
+        height: 278
+      alignment: 9
+      pivot: {x: .223659828, y: .00406937627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_5
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 568
+        width: 263
+        height: 278
+      alignment: 9
+      pivot: {x: .229012266, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_6
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 567
+        width: 250
+        height: 149
+      alignment: 9
+      pivot: {x: .25867188, y: .0238184575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 283
+        width: 223
+        height: 167
+      alignment: 9
+      pivot: {x: .332592666, y: .00677417126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 283
+        width: 223
+        height: 167
+      alignment: 9
+      pivot: {x: .342738688, y: 1.82739996e-07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_9
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 284
+        width: 234
+        height: 167
+      alignment: 9
+      pivot: {x: .263110548, y: .00677417126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_10
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 283
+        width: 243
+        height: 167
+      alignment: 9
+      pivot: {x: .416202486, y: .00677417126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_11
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 283
+        width: 287
+        height: 167
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_12
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 284
+        width: 297
+        height: 167
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_13
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 283
+        width: 302
+        height: 167
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 239
+        height: 155
+      alignment: 9
+      pivot: {x: .22546649, y: .0145971179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 245
+        height: 153
+      alignment: 9
+      pivot: {x: .24142468, y: .0147879291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_spearman_16
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 0
+        width: 242
+        height: 157
+      alignment: 9
+      pivot: {x: .228869736, y: .0144111672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: bd26f9c25979eca45a6e0c543657960e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leesunshin 1773 (motified)
+    21300002: leesunshin 1773 (motified)_0
+    21300004: leesunshin 1773 (motified)_1
+    21300006: leesunshin 1773 (motified)_2
+    21300008: leesunshin 1773 (motified)_3
+    21300010: leesunshin 1773 (motified)_4
+    21300012: leesunshin 1773 (motified)_5
+    21300014: leesunshin 1773 (motified)_6
+    21300016: leesunshin 1773 (motified)_7
+    21300018: leesunshin 1773 (motified)_8
+    21300020: leesunshin 1773 (motified)_9
+    21300022: leesunshin 1773 (motified)_10
+    21300024: leesunshin 1773 (motified)_11
+    21300026: leesunshin 1773 (motified)_12
+    21300028: leesunshin 1773 (motified)_13
+    21300030: leesunshin 1773 (motified)_14
+    21300032: leesunshin 1773 (motified)_15
+    21300034: leesunshin 1773 (motified)_16
+    21300036: leesunshin 1773 (motified)_17
+    21300038: leesunshin 1773 (motified)_18
+    21300040: leesunshin 1773 (motified)_19
+    21300042: leesunshin 1773 (motified)_20
+    21300044: leesunshin 1773 (motified)_21
+    21300046: leesunshin 1773 (motified)_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: leesunshin 1773 (motified)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 213
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1223
+        width: 198
+        height: 58
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1218
+        width: 184
+        height: 75
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1236
+        width: 148
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1241
+        width: 125
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_5
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1241
+        width: 144
+        height: 106
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 976
+        width: 167
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 971
+        width: 168
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 971
+        width: 167
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 649
+        width: 167
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 635
+        width: 217
+        height: 187
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 679
+        width: 103
+        height: 160
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_12
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 690
+        width: 270
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_13
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 690
+        width: 257
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_14
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 690
+        width: 246
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 345
+        width: 167
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 325
+        width: 264
+        height: 177
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_17
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 369
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 34
+        width: 167
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 17
+        width: 165
+        height: 253
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 34
+        width: 167
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_21
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 178
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leesunshin 1773 (motified)_22
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 62
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

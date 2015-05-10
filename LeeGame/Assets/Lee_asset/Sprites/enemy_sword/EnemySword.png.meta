@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 5c5aada0b731646dbbc26f568fa7ce95
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemySword
+    21300002: EnemySword_0
+    21300004: EnemySword_1
+    21300006: EnemySword_2
+    21300008: EnemySword_3
+    21300010: EnemySword_4
+    21300012: EnemySword_5555
+    21300014: EnemySword_5
+    21300016: EnemySword_7
+    21300018: EnemySword_8
+    21300020: EnemySword_9
+    21300022: EnemySword_10
+    21300024: EnemySword_11
+    21300026: EnemySword_12
+    21300028: EnemySword_13
+    21300030: EnemySword_14
+    21300032: EnemySword_15
+    21300034: EnemySword_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnemySword_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2689
+        width: 473
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1921
+        width: 374
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1905
+        width: 407
+        height: 383
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_3
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1916
+        width: 353
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_4
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1889
+        width: 499
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_5555
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2617
+        width: 416
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_5
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 1900
+        width: 477
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1075
+        width: 452
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1075
+        width: 407
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_9
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1075
+        width: 233
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_10
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 999
+        width: 476
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_11
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 962
+        width: 510
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 280
+        width: 473
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 280
+        width: 483
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_14
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 283
+        width: 473
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_15
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 287
+        width: 481
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemySword_16
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 284
+        width: 478
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 9265f2aa815c74d8d841bce93243c57b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyGun
+    21300002: EnemyGun_0
+    21300004: EnemyGun_1
+    21300006: EnemyGun_2
+    21300008: EnemyGun_3
+    21300010: EnemyGun_4
+    21300012: EnemyGun_5
+    21300014: EnemyGun_6
+    21300016: EnemyGun_7
+    21300018: EnemyGun_8
+    21300020: EnemyGun_9
+    21300022: EnemyGun_10
+    21300024: EnemyGun_11
+    21300026: EnemyGun_12
+    21300028: EnemyGun_13
+    21300030: EnemyGun_14
+    21300032: EnemyGun_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnemyGun_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3244
+        width: 397
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2610
+        width: 314
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2576
+        width: 280
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_3
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2585
+        width: 346
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_4
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2565
+        width: 536
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_5
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 2565
+        width: 653
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1812
+        width: 422
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_7
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1812
+        width: 488
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_8
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1812
+        width: 469
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1219
+        width: 419
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_10
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1219
+        width: 496
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_11
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1219
+        width: 443
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 245
+        width: 397
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_13
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 239
+        width: 413
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_14
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 239
+        width: 401
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyGun_15
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 253
+        width: 415
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

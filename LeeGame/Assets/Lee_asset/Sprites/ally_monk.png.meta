@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: b2022f6808cf34628a4a9b707558b86d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ally_monk
+    21300002: ally_monk_0
+    21300004: ally_monk_1
+    21300006: ally_monk_2
+    21300008: ally_monk_3
+    21300010: ally_monk_4
+    21300012: ally_monk_5
+    21300014: ally_monk_6
+    21300016: ally_monk_7
+    21300018: ally_monk_8
+    21300020: ally_monk_9
+    21300022: ally_monk_10
+    21300024: ally_monk_11
+    21300026: ally_monk_12
+    21300028: ally_monk_13
+    21300030: ally_monk_14
+    21300032: ally_monk_15
+    21300034: ally_monk_16
+    21300036: ally_monk_17
+    21300038: ally_monk_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ally_monk_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 489
+        width: 106
+        height: 117
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 489
+        width: 106
+        height: 117
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_2
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 489
+        width: 121
+        height: 147
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 489
+        width: 131
+        height: 145
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_4
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 489
+        width: 137
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_5
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 489
+        width: 152
+        height: 121
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_6
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 489
+        width: 177
+        height: 93
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_7
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 489
+        width: 182
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 244
+        width: 95
+        height: 150
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 244
+        width: 96
+        height: 150
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_10
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 244
+        width: 115
+        height: 150
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_11
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 244
+        width: 119
+        height: 149
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_12
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 244
+        width: 147
+        height: 150
+      alignment: 9
+      pivot: {x: .362048924, y: .0115533443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_13
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 244
+        width: 149
+        height: 150
+      alignment: 9
+      pivot: {x: .376756489, y: 1.01725263e-07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_14
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 244
+        width: 147
+        height: 150
+      alignment: 9
+      pivot: {x: .368139148, y: 1.01725263e-07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 93
+        height: 148
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 94
+        height: 148
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_17
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 89
+        height: 148
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ally_monk_18
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1
+        width: 68
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

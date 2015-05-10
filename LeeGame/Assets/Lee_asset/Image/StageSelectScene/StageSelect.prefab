@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: StageSelect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: aad53064aff1947bf84abf487d4150f0, type: 2}
+  sprites:
+  - name: BackGround
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 479
+      height: 232
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 479
+      height: 232
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: .00208768272
+    paddingTop: .198275864
+    paddingBottom: .181034476
+  - name: Back2
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 243
+      width: 479
+      height: 269
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 243
+      width: 479
+      height: 269
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: .00208768272
+    paddingTop: .171003714
+    paddingBottom: .0185873602
+  - name: stage7
+    outer:
+      serializedVersion: 2
+      x: 480
+      y: 165
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 480
+      y: 165
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stagelock
+    outer:
+      serializedVersion: 2
+      x: 480
+      y: 213
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 480
+      y: 213
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage3
+    outer:
+      serializedVersion: 2
+      x: 774
+      y: 431
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 774
+      y: 431
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage5
+    outer:
+      serializedVersion: 2
+      x: 839
+      y: 431
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 839
+      y: 431
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage2
+    outer:
+      serializedVersion: 2
+      x: 917
+      y: 465
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 917
+      y: 465
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage1
+    outer:
+      serializedVersion: 2
+      x: 917
+      y: 417
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 917
+      y: 417
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage6
+    outer:
+      serializedVersion: 2
+      x: 480
+      y: 357
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 480
+      y: 357
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage4
+    outer:
+      serializedVersion: 2
+      x: 480
+      y: 309
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 480
+      y: 309
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage
+    outer:
+      serializedVersion: 2
+      x: 480
+      y: 261
+      width: 64
+      height: 47
+    inner:
+      serializedVersion: 2
+      x: 480
+      y: 261
+      width: 64
+      height: 47
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stageSelect 1
+    outer:
+      serializedVersion: 2
+      x: 774
+      y: 479
+      width: 142
+      height: 33
+    inner:
+      serializedVersion: 2
+      x: 774
+      y: 479
+      width: 142
+      height: 33
+    rotated: 0
+    paddingLeft: .0352112688
+    paddingRight: .0211267602
+    paddingTop: .151515156
+    paddingBottom: .0606060624
+  - name: Page2
+    outer:
+      serializedVersion: 2
+      x: 545
+      y: 394
+      width: 85
+      height: 10
+    inner:
+      serializedVersion: 2
+      x: 545
+      y: 394
+      width: 85
+      height: 10
+    rotated: 0
+    paddingLeft: .0352941193
+    paddingRight: .0470588244
+    paddingTop: .200000003
+    paddingBottom: .100000001
+  - name: Page5
+    outer:
+      serializedVersion: 2
+      x: 631
+      y: 394
+      width: 85
+      height: 10
+    inner:
+      serializedVersion: 2
+      x: 631
+      y: 394
+      width: 85
+      height: 10
+    rotated: 0
+    paddingLeft: .0352941193
+    paddingRight: .0470588244
+    paddingTop: .200000003
+    paddingBottom: .100000001
+  - name: Page1
+    outer:
+      serializedVersion: 2
+      x: 717
+      y: 394
+      width: 85
+      height: 10
+    inner:
+      serializedVersion: 2
+      x: 717
+      y: 394
+      width: 85
+      height: 10
+    rotated: 0
+    paddingLeft: .0352941193
+    paddingRight: .0470588244
+    paddingTop: .200000003
+    paddingBottom: .100000001
+  - name: Page4
+    outer:
+      serializedVersion: 2
+      x: 803
+      y: 394
+      width: 85
+      height: 10
+    inner:
+      serializedVersion: 2
+      x: 803
+      y: 394
+      width: 85
+      height: 10
+    rotated: 0
+    paddingLeft: .0352941193
+    paddingRight: .0470588244
+    paddingTop: .200000003
+    paddingBottom: .100000001
+  - name: Page3
+    outer:
+      serializedVersion: 2
+      x: 889
+      y: 394
+      width: 85
+      height: 10
+    inner:
+      serializedVersion: 2
+      x: 889
+      y: 394
+      width: 85
+      height: 10
+    rotated: 0
+    paddingLeft: .0352941193
+    paddingRight: .0470588244
+    paddingTop: .200000003
+    paddingBottom: .100000001
+  - name: left
+    outer:
+      serializedVersion: 2
+      x: 982
+      y: 482
+      width: 30
+      height: 30
+    inner:
+      serializedVersion: 2
+      x: 982
+      y: 482
+      width: 30
+      height: 30
+    rotated: 0
+    paddingLeft: .100000001
+    paddingRight: .166666672
+    paddingTop: .0666666701
+    paddingBottom: .0333333351
+  - name: right
+    outer:
+      serializedVersion: 2
+      x: 982
+      y: 434
+      width: 30
+      height: 30
+    inner:
+      serializedVersion: 2
+      x: 982
+      y: 434
+      width: 30
+      height: 30
+    rotated: 0
+    paddingLeft: .166666672
+    paddingRight: .100000001
+    paddingTop: .0666666701
+    paddingBottom: .0333333351
+  - name: update_Pressed
+    outer:
+      serializedVersion: 2
+      x: 480
+      y: 405
+      width: 146
+      height: 107
+    inner:
+      serializedVersion: 2
+      x: 480
+      y: 405
+      width: 146
+      height: 107
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: update_Pressed(motified)
+    outer:
+      serializedVersion: 2
+      x: 627
+      y: 405
+      width: 146
+      height: 107
+    inner:
+      serializedVersion: 2
+      x: 627
+      y: 405
+      width: 146
+      height: 107
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

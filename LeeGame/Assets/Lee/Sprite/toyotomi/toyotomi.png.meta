@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 69464fa08c61a4377b58647c6b8d81e1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: doyotomi
+    21300002: doyotomi_0
+    21300004: doyotomi_1
+    21300006: doyotomi_2
+    21300008: doyotomi_3
+    21300010: doyotomi_4
+    21300012: doyotomi_12
+    21300014: doyotomi_6
+    21300016: doyotomi_7
+    21300018: doyotomi_8
+    21300020: doyotomi_9
+    21300022: doyotomi_10
+    21300024: doyotomi_11
+    21300026: doyotomi_13
+    21300028: doyotomi_14
+    21300030: doyotomi_15
+    21300032: doyotomi_16
+    21300034: doyotomi_17
+    21300036: doyotomi_18
+    21300038: doyotomi_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: doyotomi_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2283
+        width: 417
+        height: 264
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2283
+        width: 453
+        height: 257
+      alignment: 9
+      pivot: {x: .596461415, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_2
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2283
+        width: 458
+        height: 257
+      alignment: 9
+      pivot: {x: .59540832, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1694
+        width: 354
+        height: 265
+      alignment: 9
+      pivot: {x: .337987661, y: .0412238352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1694
+        width: 326
+        height: 224
+      alignment: 9
+      pivot: {x: .216510236, y: .0404930115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_12
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 919
+        width: 487
+        height: 316
+      alignment: 9
+      pivot: {x: .526653409, y: .102693386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1697
+        width: 358
+        height: 213
+      alignment: 9
+      pivot: {x: .206156984, y: .0595118552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_7
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1678
+        width: 391
+        height: 221
+      alignment: 9
+      pivot: {x: .269500643, y: .0343608595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 953
+        width: 169
+        height: 284
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 954
+        width: 168
+        height: 317
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 953
+        width: 308
+        height: 269
+      alignment: 9
+      pivot: {x: .258772016, y: -.00503256405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_11
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 917
+        width: 316
+        height: 306
+      alignment: 9
+      pivot: {x: .292306244, y: .101282254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_13
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 943
+        width: 598
+        height: 280
+      alignment: 9
+      pivot: {x: .561501384, y: .0540852137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_14
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 953
+        width: 418
+        height: 276
+      alignment: 9
+      pivot: {x: .644916713, y: .00783881545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 114
+        width: 418
+        height: 264
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 114
+        width: 418
+        height: 264
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_17
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 114
+        width: 418
+        height: 264
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_18
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 114
+        width: 418
+        height: 264
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doyotomi_19
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 114
+        width: 418
+        height: 264
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

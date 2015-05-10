@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: a401fca6497d140a1b695c3658896a9d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anima0
+    21300002: anima0_0
+    21300004: anima0_1
+    21300006: anima0_2
+    21300008: anima0_3
+    21300010: anima0_4
+    21300012: anima0_5
+    21300014: anima0_6
+    21300016: anima0_7
+    21300018: anima0_8
+    21300020: anima0_9
+    21300022: anima0_10
+    21300024: anima0_11
+    21300026: anima0_12
+    21300028: anima0_13
+    21300030: anima0_14
+    21300032: anima0_15
+    21300034: anima0_16
+    21300036: anima0_17
+    21300038: anima0_18
+    21300040: anima0_19
+    21300042: anima0_20
+    21300044: anima0_21
+    21300046: anima0_22
+    21300048: anima0_23
+    21300050: anima0_24
+    21300052: anima0_25
+    21300054: anima0_26
+    21300056: anima0_27
+    21300058: anima0_28
+    21300060: anima0_29
+    21300062: anima0_30
+    21300064: anima0_31
+    21300066: anima0_32
+    21300068: anima0_33
+    21300070: anima0_34
+    21300072: anima0_35
+    21300074: anima0_36
+    21300076: anima0_37
+    21300078: anima0_38
+    21300080: anima0_39
+    21300082: anima0_40
+    21300084: anima0_41
+    21300086: anima0_42
+    21300088: anima0_43
+    21300090: anima0_44
+    21300092: anima0_45
+    21300094: anima0_46
+    21300096: anima0_47
+    21300098: anima0_48
+    21300100: anima0_49
+    21300102: anima0_50
+    21300104: anima0_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: anima0_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 224
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 245
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 245
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 184
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 189
+        width: 42
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 186
+        width: 42
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 185
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 184
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 185
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 190
+        width: 40
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 187
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 185
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 184
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 143
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 169
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 162
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 162
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 162
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 121
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 121
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 114
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 119
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 114
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 117
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 114
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 114
+        width: 13
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 55
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 55
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 55
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 55
+        width: 43
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 55
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 55
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 55
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 40
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_46
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4
+        width: 41
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anima0_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

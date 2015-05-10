@@ -1,0 +1,490 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: ForSetting
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 79e36f7a0dc1040f8bf78b10590dd7c7, type: 2}
+  sprites:
+  - name: bivarlateOff
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 516
+      width: 118
+      height: 58
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 516
+      width: 118
+      height: 58
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Sound OFF
+    outer:
+      serializedVersion: 2
+      x: 119
+      y: 516
+      width: 118
+      height: 58
+    inner:
+      serializedVersion: 2
+      x: 119
+      y: 516
+      width: 118
+      height: 58
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val3
+    outer:
+      serializedVersion: 2
+      x: 361
+      y: 552
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 361
+      y: 552
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val7
+    outer:
+      serializedVersion: 2
+      x: 361
+      y: 529
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 361
+      y: 529
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val10
+    outer:
+      serializedVersion: 2
+      x: 123
+      y: 470
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 123
+      y: 470
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val11
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 470
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 470
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: +
+    outer:
+      serializedVersion: 2
+      x: 468
+      y: 991
+      width: 33
+      height: 33
+    inner:
+      serializedVersion: 2
+      x: 468
+      y: 991
+      width: 33
+      height: 33
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val8
+    outer:
+      serializedVersion: 2
+      x: 369
+      y: 493
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 369
+      y: 493
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val9
+    outer:
+      serializedVersion: 2
+      x: 246
+      y: 493
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 246
+      y: 493
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val4
+    outer:
+      serializedVersion: 2
+      x: 123
+      y: 493
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 123
+      y: 493
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val2
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 493
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 493
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Sound ON
+    outer:
+      serializedVersion: 2
+      x: 284
+      y: 589
+      width: 118
+      height: 58
+    inner:
+      serializedVersion: 2
+      x: 284
+      y: 589
+      width: 118
+      height: 58
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Setting
+    outer:
+      serializedVersion: 2
+      x: 403
+      y: 667
+      width: 44
+      height: 39
+    inner:
+      serializedVersion: 2
+      x: 403
+      y: 667
+      width: 44
+      height: 39
+    rotated: 0
+    paddingLeft: .0454545468
+    paddingRight: .0454545468
+    paddingTop: .025641026
+    paddingBottom: 0
+  - name: SettingBackGround
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 707
+      width: 467
+      height: 317
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 707
+      width: 467
+      height: 317
+    rotated: 0
+    paddingLeft: .0278372597
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: .00946372282
+  - name: Help
+    outer:
+      serializedVersion: 2
+      x: 195
+      y: 587
+      width: 88
+      height: 119
+    inner:
+      serializedVersion: 2
+      x: 195
+      y: 587
+      width: 88
+      height: 119
+    rotated: 0
+    paddingLeft: .0568181835
+    paddingRight: .0568181835
+    paddingTop: .0588235296
+    paddingBottom: .0588235296
+  - name: backgroundMusic
+    outer:
+      serializedVersion: 2
+      x: 448
+      y: 680
+      width: 57
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 448
+      y: 680
+      width: 57
+      height: 26
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val6
+    outer:
+      serializedVersion: 2
+      x: 238
+      y: 529
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 238
+      y: 529
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: effectSound
+    outer:
+      serializedVersion: 2
+      x: 403
+      y: 640
+      width: 57
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 403
+      y: 640
+      width: 57
+      height: 26
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: '-'
+    outer:
+      serializedVersion: 2
+      x: 468
+      y: 957
+      width: 33
+      height: 33
+    inner:
+      serializedVersion: 2
+      x: 468
+      y: 957
+      width: 33
+      height: 33
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: val
+    outer:
+      serializedVersion: 2
+      x: 238
+      y: 552
+      width: 122
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 238
+      y: 552
+      width: 122
+      height: 22
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: -_pressed
+    outer:
+      serializedVersion: 2
+      x: 468
+      y: 923
+      width: 33
+      height: 33
+    inner:
+      serializedVersion: 2
+      x: 468
+      y: 923
+      width: 33
+      height: 33
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: +_pressed
+    outer:
+      serializedVersion: 2
+      x: 468
+      y: 889
+      width: 33
+      height: 33
+    inner:
+      serializedVersion: 2
+      x: 468
+      y: 889
+      width: 33
+      height: 33
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bivarlateOn
+    outer:
+      serializedVersion: 2
+      x: 284
+      y: 648
+      width: 118
+      height: 58
+    inner:
+      serializedVersion: 2
+      x: 284
+      y: 648
+      width: 118
+      height: 58
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Value_background
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 575
+      width: 194
+      height: 131
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 575
+      width: 194
+      height: 131
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
