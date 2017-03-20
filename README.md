@@ -1,4 +1,3 @@
-# Unity
-My Unity Project
+# Unity Project
 
-1. LeeGame
+LeeGame - Side Scrolling RPG Game
